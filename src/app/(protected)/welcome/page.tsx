@@ -8,7 +8,7 @@ function Welcome() {
     <div className="hero-content">
       <div className="max-w-md">
           <IntroPointers />
-          <Link href="/dashboard"><button className="btn bg-base-100 btn-outline">Get Started</button></Link>
+          <Link href="/dashboard"><button className="btn bg-base-100 btn-outline">🚀 Create Yours Now!</button></Link>
       </div>
     </div>
   </div>
